@@ -1,0 +1,27 @@
+{
+  "name": "termight",
+  "version": "0.1.0",
+  "description": "Syntax Highlighting for your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap -Rspec test --cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esatterwhite/node-termight.git"
+  },
+  "keywords": [
+    "terminal",
+    "ansi",
+    "syntax",
+    "highlighting",
+    "ast",
+    "unist"
+  ],
+  "author": "Eric Satterwhite <eric@codedependant.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esatterwhite/node-termight/issues"
+  },
+  "homepage": "https://github.com/esatterwhite/node-termight#readme"
+}
